@@ -1,0 +1,11 @@
+monai
+matplotlib
+scikit-image
+SimpleITK>=2.2.1
+nibabel
+tqdm
+scipy
+ipympl
+opencv-python
+jupyterlab
+ipywidgets
